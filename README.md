@@ -1,6 +1,7 @@
 # Wildfire Tracker
 
-This project is a Wildfire Tracker app created using React, Google-Map_React, Iconfy, Nasa Api.
+This project is a Wildfire Tracker app created using React, Google-Map_React, Iconify, Nasa Api.
+it gives all the location of wildfire which is updated from Nasa events api.
 
 ## Available Scripts
 
